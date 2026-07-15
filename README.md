@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Rishita Biswas
 
-<!--
-**rishita-biswas12/rishita-biswas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI & Data Science Student  
+📍 Uttarakhand, India  
+💻 Learning DSA, Python, SQL & Machine Learning  
+🚀 Passionate about AI, Open Source & Building Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+```javascript
+const rishita = {
+    name: "Rishita Biswas",
+    role: "BCA AI & Data Science Student",
+    learning: ["DSA", "Python", "SQL", "Machine Learning"],
+    interests: ["Artificial Intelligence", "Open Source", "Hackathons"],
+    goal: "Become an AI Engineer"
+}
