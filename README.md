@@ -3,7 +3,6 @@
 </p>
 
 # Hi 👋 I'm Rishita
-# Hi 👋 I'm Rishita 
 
 🎓 BCA AI & Data Science Student  
 📍 Uttarakhand, India  
