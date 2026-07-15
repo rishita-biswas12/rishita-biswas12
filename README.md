@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rishita Biswas
+# Hi 👋 I'm Rishita 
 
 🎓 BCA AI & Data Science Student  
 📍 Uttarakhand, India  
